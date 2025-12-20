@@ -1,0 +1,200 @@
+﻿InvoiceNo,CustomerID,ProductID,ProductName,Category,Quantity,   UnitPrice   ,InvoiceDate,Region
+10001,101,201,Milk,Dairy,2,30,05-01-2024,North
+10002,102,202,Bread,Bakery,1,25,06-01-2024,South
+10003,103,203,Butter,Dairy,1,45,06-01-2024,East
+10004,101,204,Cheese,Dairy,1,120,07-01-2024,North
+10008,102,202,Bread,Bakery,2,25,09-01-2024,South
+10009,101,201,Milk,Dairy,1,30,10-01-2024,North
+10010,103,208,Rice,Grocery,5,60,10-01-2024,East
+10011,104,209,Wheat,Grocery,3,55,11-01-2024,South
+10012,105,210,Oil,Grocery,1,150,11-01-2024,West
+10013,101,204,Cheese,Dairy,2,120,12-01-2024,North
+10014,102,203,Butter,Dairy,1,45,12-01-2024,South
+10015,103,205,Cookies,Bakery,4,40,13-01-2024,East
+10013,284,420,Tea Powder,Beverages,8,142.36,15-08-2024,West
+10015,569,415,Notebook,Stationery,2,42.95,07-09-2024,East
+10017,441,413,Detergent,Household,2,190.52,27-07-2024,East
+10019,211,401,Rice,Grocery,6,62.12,22-09-2024,West
+10021,469,402,Wheat Flour,Grocery,5,40.49,12-09-2024,South
+10023,502,405,Milk,Dairy,1,34.89,24-08-2024,East
+10025,208,418,Cold Drink,Beverages,2,50.47,11-09-2024,Central
+10027,577,404,Cooking Oil,Grocery,2,144.9,22-10-2024,West
+10029,443,419,Juice,Beverages,2,60.31,12-08-2024,South
+10031,390,410,Soap,Personal Care,3,45.1,18-06-2024,East
+10033,516,410,Soap,Personal Care,3,39.35,08-07-2024,North
+10035,124,403,Sugar,Grocery,10,49.87,26-07-2024,South
+10037,217,407,Cheese,Dairy,9,121.17,18-06-2024,South
+10039,481,417,Marker,Stationery,2,34.73,03-04-2024,South
+10041,391,415,Notebook,Stationery,9,44.13,14-07-2024,Central
+10043,713,419,Juice,Beverages,1,93.55,20-08-2024,West
+10045,422,417,Marker,Stationery,2,37.44,23-10-2024,East
+10047,593,408,Bread,Bakery,4,39.43,09-05-2024,West
+10049,321,408,Bread,Bakery,2,32.45,09-06-2024,East
+10051,302,404,Cooking Oil,Grocery,6,139.29,17-03-2024,West
+10053,335,415,Notebook,Stationery,9,40.13,06-02-2024,Central
+10055,102,415,Notebook,Stationery,10,55.45,11-01-2024,Central
+10057,644,412,Toothpaste,Personal Care,7,84.92,08-01-2024,Central
+10059,699,414,Floor Cleaner,Household,2,111.98,21-09-2024,East
+10061,281,417,Marker,Stationery,8,43.93,18-02-2024,East
+10063,320,414,Floor Cleaner,Household,7,157.21,13-01-2024,East
+10065,560,418,Cold Drink,Beverages,8,55.53,14-08-2024,West
+10067,430,405,Milk,Dairy,6,33.29,04-06-2024,West
+10069,732,411,Shampoo,Personal Care,1,144.46,30-05-2024,North
+10071,738,408,Bread,Bakery,7,37.07,28-09-2024,East
+10073,709,413,Detergent,Household,7,192.42,28-07-2024,West
+10075,530,412,Toothpaste,Personal Care,8,108.26,27-05-2024,Central
+10077,118,414,Floor Cleaner,Household,4,155.82,22-08-2024,East
+10079,364,414,Floor Cleaner,Household,5,100.83,13-08-2024,North
+10081,457,413,Detergent,Household,9,126.48,22-08-2024,East
+10083,339,403,Sugar,Grocery,5,32.61,01-02-2024,West
+10085,738,408,Bread,Bakery,2,35.43,14-10-2024,South
+10087,427,402,Wheat Flour,Grocery,7,36.12,08-08-2024,East
+10089,612,410,Soap,Personal Care,6,37.2,13-08-2024,East
+10091,488,402,Wheat Flour,Grocery,3,38.89,04-04-2024,East
+10093,421,412,Toothpaste,Personal Care,3,106.57,02-07-2024,South
+10095,391,412,Toothpaste,Personal Care,9,104.01,15-08-2024,Central
+10097,743,412,Toothpaste,Personal Care,6,119.58,24-08-2024,North
+10099,565,415,Notebook,Stationery,2,54.55,22-04-2024,East
+10101,223,403,Sugar,Grocery,3,30.32,01-10-2024,East
+10103,441,414,Floor Cleaner,Household,3,136.52,29-07-2024,East
+10105,340,401,Rice,Grocery,1,68.28,22-10-2024,East
+10107,349,415,Notebook,Stationery,10,76.17,18-08-2024,Central
+10109,428,408,Bread,Bakery,5,28.43,09-10-2024,Central
+10111,597,415,Notebook,Stationery,8,84.05,16-01-2024,East
+10113,556,404,Cooking Oil,Grocery,1,122.69,19-08-2024,West
+10115,432,415,Notebook,Stationery,1,70.92,03-06-2024,East
+10117,792,403,Sugar,Grocery,9,50.44,14-07-2024,South
+10119,507,416,Pen,Stationery,4,7.89,04-07-2024,West
+10121,277,413,Detergent,Household,4,231.51,08-04-2024,North
+10123,465,413,Detergent,Household,7,247.54,09-01-2024,West
+10125,312,407,Cheese,Dairy,8,142.12,25-09-2024,Central
+10127,648,406,Butter,Dairy,9,46.22,12-08-2024,South
+10129,440,404,Cooking Oil,Grocery,6,172.49,15-06-2024,South
+10131,371,403,Sugar,Grocery,5,36.63,19-01-2024,Central
+10133,312,418,Cold Drink,Beverages,7,39.47,03-09-2024,East
+10135,200,417,Marker,Stationery,3,47.75,24-08-2024,Central
+10137,396,417,Marker,Stationery,8,37.39,04-05-2024,West
+10139,213,409,Biscuits,Bakery,2,19.84,21-07-2024,Central
+10141,414,410,Soap,Personal Care,6,36.61,17-04-2024,East
+10143,467,417,Marker,Stationery,9,26.72,16-07-2024,South
+10145,420,402,Wheat Flour,Grocery,1,44,28-07-2024,East
+10147,419,412,Toothpaste,Personal Care,3,107.97,03-08-2024,North
+10149,310,403,Sugar,Grocery,1,53.49,05-06-2024,East
+10151,695,413,Detergent,Household,7,156.27,28-08-2024,East
+10153,556,401,Rice,Grocery,9,47.83,02-03-2024,East
+10155,427,416,Pen,Stationery,6,8,10-03-2024,South
+10157,606,405,Milk,Dairy,9,29.64,17-02-2024,North
+10159,371,406,Butter,Dairy,4,55.49,16-07-2024,East
+10161,562,410,Soap,Personal Care,1,37.24,17-09-2024,Central
+10163,251,404,Cooking Oil,Grocery,7,164.72,20-07-2024,North
+10165,156,405,Milk,Dairy,4,25.37,09-07-2024,South
+10167,232,415,Notebook,Stationery,10,59.93,07-08-2024,East
+10169,210,404,Cooking Oil,Grocery,4,143.23,21-04-2024,South
+10171,273,417,Marker,Stationery,1,48.51,16-03-2024,East
+10173,167,405,Milk,Dairy,10,27.82,24-05-2024,Central
+10175,133,414,Floor Cleaner,Household,6,130.23,31-08-2024,Central
+10177,469,404,Cooking Oil,Grocery,7,145.18,16-07-2024,Central
+10179,246,415,Notebook,Stationery,8,54.37,18-05-2024,Central
+10181,285,413,Detergent,Household,5,196.61,06-08-2024,East
+10183,592,416,Pen,Stationery,5,19,14-04-2024,Central
+10185,415,403,Sugar,Grocery,5,45.87,31-03-2024,West
+10187,420,414,Floor Cleaner,Household,4,134.04,21-03-2024,North
+10189,303,413,Detergent,Household,10,212.58,31-05-2024,Central
+10191,402,408,Bread,Bakery,4,24.35,27-01-2024,North
+10193,269,416,Pen,Stationery,2,15.28,02-08-2024,North
+10195,357,414,Floor Cleaner,Household,1,158.85,23-03-2024,West
+10197,132,410,Soap,Personal Care,1,32.59,21-09-2024,East
+10199,272,407,Cheese,Dairy,3,96.85,13-03-2024,South
+10201,210,402,Wheat Flour,Grocery,5,39.5,15-03-2024,South
+10203,114,411,Shampoo,Personal Care,10,93.49,03-09-2024,East
+10205,214,411,Shampoo,Personal Care,4,119.68,02-07-2024,North
+10207,156,412,Toothpaste,Personal Care,5,105.54,30-06-2024,North
+10209,782,420,Tea Powder,Beverages,5,139.18,13-04-2024,North
+10211,405,402,Wheat Flour,Grocery,1,38.07,25-09-2024,East
+10213,753,409,Biscuits,Bakery,5,30.64,15-06-2024,East
+10215,112,408,Bread,Bakery,1,36.46,28-01-2024,Central
+10217,598,419,Juice,Beverages,5,71.82,23-05-2024,North
+10219,480,403,Sugar,Grocery,1,47.34,20-01-2024,Central
+10221,244,402,Wheat Flour,Grocery,1,44.99,24-01-2024,Central
+10223,274,409,Biscuits,Bakery,3,17.39,02-07-2024,Central
+10225,477,417,Marker,Stationery,1,28.4,25-02-2024,North
+10227,554,406,Butter,Dairy,9,67.77,17-08-2024,Central
+10229,498,418,Cold Drink,Beverages,7,38.85,12-05-2024,East
+10231,251,411,Shampoo,Personal Care,9,167.58,16-09-2024,South
+10233,557,418,Cold Drink,Beverages,2,57.11,20-09-2024,North
+10235,625,407,Cheese,Dairy,4,124.85,27-01-2024,West
+10237,444,409,Biscuits,Bakery,3,17.69,23-03-2024,North
+10239,581,401,Rice,Grocery,1,59.77,28-09-2024,East
+10241,640,407,Cheese,Dairy,1,137.35,18-07-2024,South
+10243,517,417,Marker,Stationery,1,28.07,30-03-2024,North
+10245,800,402,Wheat Flour,Grocery,5,38.24,29-01-2024,West
+10247,500,419,Juice,Beverages,8,74.55,08-09-2024,Central
+10249,590,415,Notebook,Stationery,10,49.57,09-06-2024,West
+10251,107,415,Notebook,Stationery,3,57.6,16-09-2024,North
+10253,559,403,Sugar,Grocery,9,31.83,01-05-2024,North
+10255,505,401,Rice,Grocery,9,56.72,24-04-2024,West
+10257,204,414,Floor Cleaner,Household,10,125.62,19-06-2024,North
+10259,193,406,Butter,Dairy,4,46.72,06-07-2024,North
+10261,793,415,Notebook,Stationery,10,49.71,07-01-2024,West
+10263,648,407,Cheese,Dairy,1,149.71,14-03-2024,South
+10265,665,408,Bread,Bakery,7,27.34,03-07-2024,South
+10267,545,401,Rice,Grocery,7,57.46,05-05-2024,South
+10269,205,401,Rice,Grocery,7,65.87,05-06-2024,West
+10271,474,405,Milk,Dairy,2,31.75,13-06-2024,Central
+10273,171,402,Wheat Flour,Grocery,7,50.51,21-04-2024,West
+10275,665,415,Notebook,Stationery,2,68.67,18-05-2024,Central
+10277,147,408,Bread,Bakery,6,20.78,20-01-2024,South
+10279,772,404,Cooking Oil,Grocery,9,164.05,14-01-2024,West
+10281,665,417,Marker,Stationery,2,36.33,20-05-2024,East
+10283,145,420,Tea Powder,Beverages,6,133.77,14-02-2024,East
+10285,229,407,Cheese,Dairy,1,87.92,06-09-2024,West
+10287,222,407,Cheese,Dairy,8,116.58,02-10-2024,Central
+10289,289,417,Marker,Stationery,8,53.56,06-10-2024,North
+10291,522,405,Milk,Dairy,3,31.13,11-08-2024,North
+10293,530,416,Pen,Stationery,5,10.34,16-10-2024,North
+10295,352,402,Wheat Flour,Grocery,10,42.73,08-01-2024,South
+10297,543,414,Floor Cleaner,Household,2,147.02,16-06-2024,East
+10299,784,415,Notebook,Stationery,6,61.54,11-01-2024,South
+10301,572,419,Juice,Beverages,6,60.36,13-02-2024,South
+10303,702,419,Juice,Beverages,6,60.58,20-08-2024,Central
+10305,148,403,Sugar,Grocery,1,47.75,24-05-2024,West
+10307,268,405,Milk,Dairy,4,25.42,22-01-2024,North
+10309,394,405,Milk,Dairy,8,27.54,20-10-2024,South
+10311,129,418,Cold Drink,Beverages,10,37.81,05-03-2024,South
+10313,479,403,Sugar,Grocery,5,54.18,01-08-2024,North
+10315,474,401,Rice,Grocery,5,65.81,25-02-2024,East
+10317,608,411,Shampoo,Personal Care,7,176.56,01-03-2024,East
+10319,312,403,Sugar,Grocery,3,43.63,10-02-2024,South
+10321,773,403,Sugar,Grocery,4,46.28,29-03-2024,Central
+10323,478,418,Cold Drink,Beverages,3,45.19,02-08-2024,North
+10325,237,414,Floor Cleaner,Household,10,155.18,02-02-2024,North
+10327,298,401,Rice,Grocery,6,52.13,23-05-2024,North
+10329,510,419,Juice,Beverages,10,98.86,05-07-2024,West
+10331,340,420,Tea Powder,Beverages,9,127.4,27-05-2024,Central
+10333,799,410,Soap,Personal Care,3,43.2,27-04-2024,West
+10335,158,414,Floor Cleaner,Household,10,141.53,24-04-2024,South
+10337,224,410,Soap,Personal Care,4,36.86,01-10-2024,Central
+10339,128,402,Wheat Flour,Grocery,1,56.45,24-01-2024,West
+10341,422,405,Milk,Dairy,8,28.97,10-04-2024,North
+10343,696,411,Shampoo,Personal Care,7,122.71,19-04-2024,North
+10345,460,407,Cheese,Dairy,8,110.69,28-02-2024,South
+10347,686,420,Tea Powder,Beverages,4,204.59,18-05-2024,North
+10349,156,405,Milk,Dairy,1,27.55,23-08-2024,West
+10351,299,406,Butter,Dairy,5,64.9,16-03-2024,South
+10353,508,410,Soap,Personal Care,5,41.12,10-07-2024,Central
+10355,757,412,Toothpaste,Personal Care,5,113.84,21-04-2024,South
+10357,143,420,Tea Powder,Beverages,10,208.46,26-06-2024,Central
+10359,162,415,Notebook,Stationery,1,52.31,02-04-2024,East
+10361,690,403,Sugar,Grocery,5,45.49,23-06-2024,West
+10363,377,419,Juice,Beverages,9,95.51,23-01-2024,South
+10365,415,402,Wheat Flour,Grocery,2,53.68,08-09-2024,West
+10367,149,410,Soap,Personal Care,9,46.95,10-02-2024,North
+10369,225,401,Rice,Grocery,1,66.7,26-02-2024,South
+10371,776,418,Cold Drink,Beverages,6,32.51,31-08-2024,Central
+10373,318,419,Juice,Beverages,6,53.82,20-06-2024,North
+10375,263,405,Milk,Dairy,7,32.23,11-05-2024,North
+10377,124,408,Bread,Bakery,5,24.64,04-06-2024,North
+10379,500,420,Tea Powder,Beverages,8,189.57,17-08-2024,South
+10381,538,414,Floor Cleaner,Household,4,106.71,29-07-2024,South
+10383,544,408,Bread,Bakery,5,30.76,24-03-2024,Central
+10385,326,416,Pen,Stationery,3,17.25,26-07-2024,North
